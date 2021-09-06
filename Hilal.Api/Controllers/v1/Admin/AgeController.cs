@@ -21,6 +21,7 @@ namespace Hilal.Api.Controllers.v1.Admin
     [ApiController]
     public class AgeController : ControllerBase
     {
+
         private readonly IAgeService AgeService;
         private readonly IConfiguration configuration;
         public AgeController(IAgeService AgeService, IConfiguration configuration)
