@@ -1,0 +1,922 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hilal.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.AdminLogin(Hilal.DataViewModel.Request.AdminLoginRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.AddRole(System.String)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.UpdateRole(Hilal.DataViewModel.Request.Admin.v1.UpdateRoleRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.ControllRoleActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.GetRoles">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.GetRights(System.Guid)">
+            <summary>
+            roleId will be 00000000-0000-0000-0000-000000000000 in case of get all rights
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.AssignRights(Hilal.DataViewModel.Request.Admin.v1.AssignRight)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.GetUsers(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            SortBy = desc or asc
+            SortIndex =  case 0: Name case 1: CountryCode case 2: PhoneNumber case 3: DateOfBirth case 4: Designation case 5: Email case 6: GenderName case 7: RoleName
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.SaveUser(Hilal.DataViewModel.Request.Admin.v1.CreateUserRequest,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.GetEditUser(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.ControllUserActivation(System.Guid,System.Boolean,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AdminAccountsController.ChangePassword(Hilal.DataViewModel.Request.Admin.v1.AdminChangePasswordRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AgeController.GetAge(Hilal.DataViewModel.Request.Admin.v1.GetAgeRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AgeController.GetEditAge(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AgeController.SaveAge(Hilal.DataViewModel.Request.Admin.v1.CreateAgeRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.AgeController.ControllAgeActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.ApprovelSettings.GetApprovelSettings(System.Nullable{System.Int32})">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.ApprovelSettings.GetEditApprovelSettings(System.Int32)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.ApprovelSettings.SaveApprovelSettings(Hilal.DataViewModel.Request.Admin.v1.CreateApprovelSettingRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.ApprovelSettings.ControllApprovelSettingsActivation(System.Int32,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BlogController.GetBlog(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BlogController.GetEditBlog(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BlogController.SaveBlog(Hilal.DataViewModel.Request.Admin.v1.CreateBlogRequest,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BlogController.ControllBlogActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BlogController.ControllBlogPublish(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BreedController.GetBreed(Hilal.DataViewModel.Request.Admin.v1.GetBreedRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BreedController.GetEditBreed(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BreedController.SaveBreed(Hilal.DataViewModel.Request.Admin.v1.CreateBreedRequest,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.BreedController.ControllBreedActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CategoryController.GetCategories(Hilal.DataViewModel.Request.Admin.v1.GetCategoriesRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CategoryController.GetCategories1(Hilal.DataViewModel.Request.Admin.v1.GetCategoriesRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CategoryController.GetEditCategory(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CategoryController.SaveCategory(Hilal.DataViewModel.Request.Admin.v1.CreateCategoryRequest,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CategoryController.ControllCategoryActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CitiesController.GetCities(Hilal.DataViewModel.Request.Admin.v1.GetCityRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CitiesController.GetEditCities(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CitiesController.SaveCities(Hilal.DataViewModel.Request.Admin.v1.CreateCitiesRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CitiesController.SaveCitiesbyExcel(Hilal.DataViewModel.Request.Admin.v1.CreateCitiesRequest,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CitiesController.ControllCitiesActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommissionController.GetCommission(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommissionController.GetEditCommission(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommissionController.SaveCommission(Hilal.DataViewModel.Request.Admin.v1.CreateCommissionRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommissionController.ControllCommissionActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetAdvertisementServicePList(Hilal.DataViewModel.Request.App.v1.GetAdvertisementRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetBusinessProfile(Hilal.DataViewModel.Request.App.v1.GetBusinessProfileRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetAdminNotifications(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetAppUsers(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetEditAdvertisement(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.ControllBusinessProfileStatus(Hilal.DataViewModel.Request.Admin.v1.ServiceControlStatusRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetBlogList(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetAdvertisementDetail(System.Guid)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CommonAppController.GetBusinessServicesDetail(System.Guid)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CountriesController.GetCountries(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CountriesController.GetEditCountries(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CountriesController.SaveCountries(Hilal.DataViewModel.Request.Admin.v1.CreateCountriesRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.CountriesController.ControllCountriesActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.DashboardSliderController.GetDashboardSlider(System.Int32)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.DashboardSliderController.GetDashboardSliderList">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.DashboardSliderController.GetEditDashboardSlider(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.DashboardSliderController.SaveDashboardSlider(Hilal.DataViewModel.Request.Admin.v1.CreateDashboardSliderRequest,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.DashboardSliderController.ControllDashboardSliderActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.FeaturedAdvertisementController.GetFeaturedAdvertisement(Hilal.DataViewModel.Response.Admin.v1.ListGeneralModel)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.FeaturedAdvertisementController.GetEditFeaturedAdvertisement(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.FeaturedAdvertisementController.SaveFeaturedAdvertisement(Hilal.DataViewModel.Request.App.v1.CreateFeaturedAdvertisementRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.FeaturedAdvertisementController.ControllFeaturedAdvertisementActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.GenderController.GetGender(Hilal.DataViewModel.Request.Admin.v1.GetGenderRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.GenderController.GetEditGender(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.GenderController.SaveGender(Hilal.DataViewModel.Request.Admin.v1.CreateGenderRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.GenderController.ControllGenderActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.SubscriptionController.GetSubscription(Hilal.DataViewModel.Response.Admin.v1.GetSubscriptionResponse)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.SubscriptionController.GetEditSubscription(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.SubscriptionController.SaveSubscription(Hilal.DataViewModel.Request.Admin.v1.CreateSubscriptionRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.Admin.SubscriptionController.ControllSubscriptionActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.GetAdvertisement(Hilal.DataViewModel.Request.App.v1.GetAdvertisementRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.GetFiltersAdvertisements(Hilal.DataViewModel.Request.App.v1.GetFiltersResquest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.GetAdvertisementDetail(System.Guid)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.GetEditAdvertisement(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.SaveAdvertisement(Hilal.DataViewModel.Request.App.v1.CreateAdvertisementRequest,Microsoft.AspNetCore.Http.IFormFile,Microsoft.AspNetCore.Http.IFormFile,System.Collections.Generic.List{Microsoft.AspNetCore.Http.IFormFile})">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.CreateAdvertisementCommission(Hilal.DataViewModel.Request.App.v1.CreateCommisionPaymentRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.ControllAdvertisementActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.ControllAdvertisementStatus(System.Guid,System.Int32)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.GetAdvertisementServicePList(Hilal.DataViewModel.Request.App.v1.GetAdvertisementRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.SaveBookmarksAdvertisement(Hilal.DataViewModel.Request.App.v1.CreateBookMarksAdvertisementRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.GetBookmarksAdvertisementByUserId">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.AddUserSubscription(Hilal.DataViewModel.Request.App.v1.CreateUserSubscription)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.GetUserSubscribedDetail">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AdvertisementController.CreateCommissionOrder(Hilal.DataViewModel.Request.App.v1.CreateAdCommisionRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.AppLogin(Hilal.DataViewModel.Request.AppLoginRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.SaveDeviceInformation(Hilal.DataViewModel.Request.SaveDeviceInformationRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.IsUserExists(System.String)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.GetAppUsersList">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.Signup(Hilal.DataViewModel.Request.SignUpRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.VerifyOTP(System.String,System.Int32)">
+            <summary>
+            if return this 00000000-0000-0000-0000-000000000000 verification failed else passed 
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.ForgotPassword(System.String)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.ResetPassword(Hilal.DataViewModel.Request.ResetPasswordRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.SaveProfile(Hilal.DataViewModel.Request.ProfileRequest,Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.GetEditProfile">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.ChangePassword(Hilal.DataViewModel.Request.ChangePasswordRequest)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppAccountsController.Logout(System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppCommonController.GetFeaturedAdvertisementList">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppCommonController.getNotifications(Hilal.DataViewModel.Request.App.v1.GetNotificationRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppCommonController.getDashBoardCount">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppCommonController.CreateSubscrptionOrder(Hilal.DataViewModel.Request.App.v1.CreatePaymentOrderRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppCommonController.CheckSubscrptionPaymentStatus(System.Guid,System.String)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.AppCommonController.CheckSubscrption">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.GetBusinessProfile(Hilal.DataViewModel.Request.App.v1.GetBusinessProfileRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.GetBusinessServicesTest(Hilal.DataViewModel.Request.App.v1.GetBusinessProfileRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.GetBusinessServices(Hilal.DataViewModel.Request.App.v1.GetBusinessProfileRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.GetBusinessServicesDetail(System.Guid)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.geteditBusinessProfile(System.Guid)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.SaveBusinessProfile(Hilal.DataViewModel.Request.App.v1.CreateAppUserBusinessProfileRequest,Microsoft.AspNetCore.Http.IFormFile,System.Collections.Generic.List{Microsoft.AspNetCore.Http.IFormFile})">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.ControllBusinessProfileActivation(System.Guid,System.Boolean)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.ControllBusinessProfileStatus(System.Guid,System.Int32)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.BusinessProfileController.GetBusinessProfileServiceByUserId">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.ChatStreamController.GetChatStream(Hilal.DataViewModel.Request.App.v1.GetChatStreamRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.ChatStreamController.GetChatThread(Hilal.DataViewModel.Request.App.v1.GetChatStreamRequest)">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.ChatStreamController.SaveChatStream(Hilal.DataViewModel.Request.App.v1.CreateChatStream)">
+            <summary>
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+        <member name="M:Hilal.Api.Controllers.v1.App.ChatStreamController.GetWhatsAppInfo">
+            <summary>
+            SortBy = desc or asc
+            case 0: Name case 1: Priority case 2: x.IsActive
+            </summary>
+            <response code="200">If all working fine</response>
+            <response code="400">If client made Validation Error</response>  
+            <response code="403">If client made some mistake</response>  
+            <response code="500">If Server Error</response>  
+        </member>
+    </members>
+</doc>

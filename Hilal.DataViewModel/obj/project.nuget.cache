@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bJZosegScHKmjZ99vY2/odzm0oR2+CGRxtiritKmN9SGsUlgNUJ69En6/ikE2qk/e3pwJQNnNkoATEFF6Nd1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALLAH\\Documents\\Help\\Hilal DevOps\\Hilal.DataViewModel\\Hilal.DataViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALLAH\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\ALLAH\\.nuget\\packages\\geoapi.core\\1.7.5\\geoapi.core.1.7.5.nupkg.sha512",
+    "C:\\Users\\ALLAH\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ALLAH\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

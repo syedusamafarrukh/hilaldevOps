@@ -1,0 +1,7 @@
+11/5/2020 5:27:14 AM ==> UserId:  Error: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+11/5/2020 5:28:42 AM ==> UserId:  Error: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+11/5/2020 6:35:50 AM ==> UserId:  Error: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+11/5/2020 6:58:15 AM ==> UserId:  Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+11/5/2020 7:14:18 AM ==> UserId:  Error: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+11/5/2020 7:18:05 AM ==> UserId:  Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+11/5/2020 7:28:18 AM ==> UserId:  Error: A transport-level error has occurred when receiving results from the server. (provider: Session Provider, error: 19 - Physical connection is not usable)

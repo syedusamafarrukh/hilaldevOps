@@ -1,0 +1,7 @@
+11/10/2020 5:00:59 AM ==> UserId:  Error: Nullable object must have a value.
+11/10/2020 5:02:59 AM ==> UserId:  Error: Nullable object must have a value.
+11/10/2020 5:16:10 AM ==> UserId:  Error: Nullable object must have a value.
+11/10/2020 5:21:19 AM ==> UserId:  Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+11/10/2020 9:06:47 AM ==> UserId:  Error: A transport-level error has occurred when receiving results from the server. (provider: Session Provider, error: 19 - Physical connection is not usable)
+11/10/2020 12:24:50 PM ==> UserId:  Error: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+11/10/2020 12:36:00 PM ==> UserId:  Error: Value cannot be null. (Parameter 'value')

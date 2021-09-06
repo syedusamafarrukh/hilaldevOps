@@ -1,0 +1,5 @@
+10/31/2020 7:17:25 AM ==> UserId:  Error: A transport-level error has occurred when receiving results from the server. (provider: Session Provider, error: 19 - Physical connection is not usable)
+10/31/2020 8:35:58 AM ==> UserId:  Error: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+10/31/2020 1:22:54 PM ==> UserId:  Error: Input string was not in a correct format.
+10/31/2020 1:46:38 PM ==> UserId:  Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+10/31/2020 1:46:42 PM ==> UserId:  Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)

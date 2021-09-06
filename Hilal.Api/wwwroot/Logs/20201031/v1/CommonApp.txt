@@ -1,0 +1,4 @@
+10/31/2020 12:11:22 PM ==> UserId:  Error: Object reference not set to an instance of an object.
+10/31/2020 12:12:01 PM ==> UserId:  Error: Object reference not set to an instance of an object.
+10/31/2020 12:51:06 PM ==> UserId:  Error: AdvertisementId Doesn't Exists
+10/31/2020 1:43:30 PM ==> UserId:  Error: An error occurred while updating the entries. See the inner exception for details.

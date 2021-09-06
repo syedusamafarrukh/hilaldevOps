@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GeoAPI.Core" Version="1.7.5" />
+    <PackageReference Include="Microsoft.IdentityModel.Protocols" Version="6.7.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hilal.Common\Hilal.Common.csproj" />
+    <ProjectReference Include="..\Hilal.DataViewModel\Hilal.DataViewModel.csproj" />
+    <ProjectReference Include="..\Hilal.Data\Hilal.Data.csproj" />
+  </ItemGroup>
+
+</Project>

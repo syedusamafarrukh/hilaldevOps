@@ -1,0 +1,1 @@
+11/5/2020 6:58:20 AM ==> UserId:  Error: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.

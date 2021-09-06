@@ -1,0 +1,81 @@
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csprojAssemblyReference.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csprojAssemblyReference.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Douxl\halal_market_api\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+D:\Douxl\halal_market_api\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Douxl\halal_market_api\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Douxl\halal_market_api\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csprojAssemblyReference.cache
+D:\Douxl\halal_market_api\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+D:\Douxl\halal_market_api\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+D:\Douxl\halal_market_api\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+D:\Douxl\halal_market_api\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Douxl\halal_market_api\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csprojAssemblyReference.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csprojAssemblyReference.cache
+D:\MuwashiApi New\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+D:\MuwashiApi New\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\MuwashiApi New\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\MuwashiApi New\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csprojAssemblyReference.cache
+D:\MuwashiApi New\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+D:\MuwashiApi New\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+D:\MuwashiApi New\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+D:\MuwashiApi New\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\MuwashiApi New\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csprojAssemblyReference.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.deps.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfoInputs.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.AssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.csproj.CoreCompileInputs.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.DataViewModel\obj\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb

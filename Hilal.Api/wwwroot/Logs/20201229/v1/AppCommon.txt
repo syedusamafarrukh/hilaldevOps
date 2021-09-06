@@ -1,0 +1,8 @@
+12/29/2020 6:50:21 AM ==> UserId:  Error: The client has disconnected
+12/29/2020 10:11:52 AM ==> UserId:  Error: A transport-level error has occurred when receiving results from the server. (provider: Session Provider, error: 19 - Physical connection is not usable)
+12/29/2020 10:13:05 AM ==> UserId:  Error: The client has disconnected
+12/29/2020 12:02:05 PM ==> UserId:  Error: One or more errors occurred. (Object reference not set to an instance of an object.)
+12/29/2020 1:16:13 PM ==> UserId:  Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+12/29/2020 1:16:13 PM ==> UserId:  Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+12/29/2020 1:16:25 PM ==> UserId:  Error: A transport-level error has occurred when receiving results from the server. (provider: Session Provider, error: 19 - Physical connection is not usable)
+12/29/2020 1:16:25 PM ==> UserId:  Error: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

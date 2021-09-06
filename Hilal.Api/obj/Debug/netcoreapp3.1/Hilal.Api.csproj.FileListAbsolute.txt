@@ -1,0 +1,1188 @@
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.exe
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.deps.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\GeoAPI.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Twilio.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csprojAssemblyReference.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.RazorTargetAssemblyInfo.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CopyComplete
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.Manifest.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.xml
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.genruntimeconfig.cache
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.exe
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.deps.json
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.xml
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\GeoAPI.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Twilio.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.dll
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.pdb
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Douxl\halal_market_api\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.pdb
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csprojAssemblyReference.cache
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.RazorTargetAssemblyInfo.cache
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CopyComplete
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.Manifest.cache
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.xml
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Douxl\halal_market_api\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.genruntimeconfig.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csprojAssemblyReference.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.exe
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.deps.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.xml
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\GeoAPI.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.RazorTargetAssemblyInfo.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CopyComplete
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.Manifest.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.xml
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.genruntimeconfig.cache
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\appsettings.Development.json
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\appsettings.json
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Hilal.Api.exe
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Hilal.Api.deps.json
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Hilal.Api.dll
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Hilal.Api.pdb
+C:\Users\IBM User\OneDrive\Documents\Hilal\netcoreapp3.1\Hilal.Api.xml
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.exe
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.deps.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.xml
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\GeoAPI.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csprojAssemblyReference.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.RazorTargetAssemblyInfo.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CopyComplete
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.Manifest.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.xml
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.genruntimeconfig.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.exe
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.deps.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.xml
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\GeoAPI.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Twilio.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csprojAssemblyReference.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.RazorTargetAssemblyInfo.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CopyComplete
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.Manifest.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.xml
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.genruntimeconfig.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.exe
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.deps.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.xml
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\GeoAPI.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\NReco.VideoConverter.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Twilio.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csprojAssemblyReference.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.Manifest.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.xml
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hilal.Api.styles.css
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.RazorTargetAssemblyInfo.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CopyComplete
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.genruntimeconfig.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\GroupDocs.Watermark.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\tizen-armel\native\libSkiaSharp.so
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\tizen-x86\native\libSkiaSharp.so
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\LazZiya.ImageResize.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.AssemblyReference.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.exe
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.deps.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.runtimeconfig.dev.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Api.xml
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\GeoAPI.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\GroupDocs.Watermark.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\LazZiya.ImageResize.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\NReco.VideoConverter.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Common.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\bin\Debug\netcoreapp3.1\Hilal.Service.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.AssemblyReference.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfoInputs.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.AssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CoreCompileInputs.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.Manifest.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\staticwebassets\Hilal.Api.StaticWebAssets.xml
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hilal.Api.styles.css
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.RazorTargetAssemblyInfo.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.csproj.CopyComplete
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.xml
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Api\obj\Debug\netcoreapp3.1\Hilal.Api.genruntimeconfig.cache

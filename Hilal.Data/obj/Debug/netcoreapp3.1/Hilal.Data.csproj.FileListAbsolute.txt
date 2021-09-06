@@ -1,0 +1,131 @@
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csprojAssemblyReference.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\Al Hilal\AlHilal\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csprojAssemblyReference.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\HCT\Documents\GitHub\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+D:\Douxl\halal_market_api\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+D:\Douxl\halal_market_api\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+D:\Douxl\halal_market_api\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+D:\Douxl\halal_market_api\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Douxl\halal_market_api\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csprojAssemblyReference.cache
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Douxl\halal_market_api\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csprojAssemblyReference.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\HAMZA\source\repos\hilalmarket\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csprojAssemblyReference.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\Al Hilal\AlHilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+D:\MuwashiApi New\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+D:\MuwashiApi New\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+D:\MuwashiApi New\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+D:\MuwashiApi New\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\MuwashiApi New\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\MuwashiApi New\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\MuwashiApi New\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csprojAssemblyReference.cache
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CopyComplete
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\MuwashiApi New\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csprojAssemblyReference.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CopyComplete
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+D:\Mobeen Office\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.AssemblyReference.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CopyComplete
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\ALLAH\Documents\Help\New Hilal Repo\New Hilal Repo\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.deps.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.runtimeconfig.dev.json
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\bin\Debug\netcoreapp3.1\Hilal.DataViewModel.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.AssemblyReference.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfoInputs.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.AssemblyInfo.cs
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CoreCompileInputs.cache
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.csproj.CopyComplete
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.dll
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.pdb
+C:\Users\ALLAH\Documents\Help\Hilal DevOps\Hilal.Data\obj\Debug\netcoreapp3.1\Hilal.Data.genruntimeconfig.cache

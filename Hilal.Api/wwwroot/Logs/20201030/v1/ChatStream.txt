@@ -1,0 +1,3 @@
+10/30/2020 11:39:28 AM ==> UserId:  Error: The client has disconnected
+10/30/2020 12:00:14 PM ==> UserId:  Error: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=8892; handshake=6106; 
+10/30/2020 12:05:26 PM ==> UserId:  Error: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.

@@ -1,0 +1,19 @@
+2/4/2021 4:11:21 AM ==> UserId:  Error: Incorrect syntax near '='.
+2/4/2021 4:26:14 AM ==> UserId:  Error: Incorrect syntax near '='.
+2/4/2021 4:27:53 AM ==> UserId:  Error: Incorrect syntax near '='.
+2/4/2021 4:28:56 AM ==> UserId:  Error: Incorrect syntax near ','.
+2/4/2021 4:53:36 AM ==> UserId:  Error: Incorrect syntax near ','.
+2/4/2021 4:54:32 AM ==> UserId:  Error: Procedure or function 'GetAdvertisements' expects parameter '@FK_CategoryId', which was not supplied.
+2/4/2021 4:59:27 AM ==> UserId:  Error: Incorrect syntax near '='.
+2/4/2021 5:07:52 AM ==> UserId:  Error: Incorrect syntax near '='.
+2/4/2021 5:12:24 AM ==> UserId:  Error: Incorrect syntax near '='.
+2/4/2021 5:13:12 AM ==> UserId:  Error: Incorrect syntax near '='.
+2/4/2021 5:19:55 AM ==> UserId:  Error: Error converting data type varchar to uniqueidentifier.
+2/4/2021 5:27:16 AM ==> UserId:  Error: Procedure or function 'GetAdvertisements' expects parameter '@FK_SubCategoryId', which was not supplied.
+2/4/2021 5:28:10 AM ==> UserId:  Error: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2/4/2021 5:34:19 AM ==> UserId:  Error: The number of rows provided for a FETCH clause must be greater then zero.
+2/4/2021 5:37:26 AM ==> UserId:  Error: The number of rows provided for a FETCH clause must be greater then zero.
+2/4/2021 5:38:18 AM ==> UserId:  Error: The number of rows provided for a FETCH clause must be greater then zero.
+2/4/2021 6:04:49 AM ==> UserId:  Error: Error converting data type varchar to uniqueidentifier.
+2/4/2021 7:42:02 AM ==> UserId:  Error: Conversion failed when converting from a character string to uniqueidentifier.
+2/4/2021 8:26:00 AM ==> UserId:  Error: Conversion failed when converting the varchar value '00000000-0000-0000-0000-000000000000' to data type int.

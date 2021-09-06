@@ -1,0 +1,5 @@
+6/29/2021 12:38:33 PM ==> UserId:  Error: The filename, directory name, or volume label syntax is incorrect. : 'D:\Mobeen Office\New Hilal Repo\Hilal.Api\https:\waseetemirates.s3.eu-central-1.amazonaws.com\Category\2021\Jun\29\20210629173751214_9af94dcfa3344c3f82079455c660e499.png'
+6/29/2021 12:46:15 PM ==> UserId:  Error: Only 1 watermark can be added to a document per editing session in evaluation mode.
+6/29/2021 12:47:23 PM ==> UserId:  Error: The process cannot access the file 'D:\Mobeen Office\New Hilal Repo\Hilal.Api\pp.jpg' because it is being used by another process.
+6/29/2021 12:47:41 PM ==> UserId:  Error: The process cannot access the file 'D:\Mobeen Office\New Hilal Repo\Hilal.Api\pp.jpg' because it is being used by another process.
+6/29/2021 12:47:56 PM ==> UserId:  Error: The process cannot access the file 'D:\Mobeen Office\New Hilal Repo\Hilal.Api\pp.jpg' because it is being used by another process.

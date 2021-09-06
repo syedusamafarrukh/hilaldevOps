@@ -1,0 +1,4 @@
+12/24/2020 8:20:30 AM ==> UserId:  Error: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+12/24/2020 8:40:57 AM ==> UserId:  Error: Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+12/24/2020 10:26:03 AM ==> UserId:  Error: Accessed JArray values with invalid key value: "state". Int32 array index expected.
+12/24/2020 10:26:19 AM ==> UserId:  Error: Accessed JArray values with invalid key value: "state". Int32 array index expected.

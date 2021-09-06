@@ -1,0 +1,4 @@
+7/1/2021 5:07:27 AM ==> UserId:  Error: Value cannot be null. (Parameter 'value')
+7/1/2021 5:07:47 AM ==> UserId:  Error: Value cannot be null. (Parameter 'value')
+7/1/2021 5:08:46 AM ==> UserId:  Error: Object reference not set to an instance of an object.
+7/1/2021 5:49:21 AM ==> UserId:  Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)

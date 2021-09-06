@@ -1,0 +1,10 @@
+12/28/2020 5:11:04 AM ==> UserId:  Error: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'Hilal.DataViewModel.Common.FileUrlResponce' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+12/28/2020 5:12:39 AM ==> UserId:  Error: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'Hilal.DataViewModel.Common.FileUrlResponce' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+12/28/2020 5:13:13 AM ==> UserId:  Error: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'Hilal.DataViewModel.Common.FileUrlResponce' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+12/28/2020 5:27:35 AM ==> UserId:  Error: Value cannot be null. (Parameter 'value')

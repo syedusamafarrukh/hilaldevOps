@@ -1,0 +1,15 @@
+2/3/2021 11:23:46 AM ==> UserId:  Error: Cannot create a DbSet for 'GetAdvertisementList' because this type is not included in the model for the context.
+2/3/2021 11:49:40 AM ==> UserId:  Error: Navigation property 'Image' on entity type 'GetAdvertisementList' is not virtual. UseLazyLoadingProxies requires all entity types to be public, unsealed, have virtual navigation properties, and have a public or protected constructor.
+2/3/2021 11:50:36 AM ==> UserId:  Error: Navigation property 'Image' on entity type 'GetAdvertisementList' is not virtual. UseLazyLoadingProxies requires all entity types to be public, unsealed, have virtual navigation properties, and have a public or protected constructor.
+2/3/2021 11:50:43 AM ==> UserId:  Error: Navigation property 'Image' on entity type 'GetAdvertisementList' is not virtual. UseLazyLoadingProxies requires all entity types to be public, unsealed, have virtual navigation properties, and have a public or protected constructor.
+2/3/2021 11:51:01 AM ==> UserId:  Error: Navigation property 'Image' on entity type 'GetAdvertisementList' is not virtual. UseLazyLoadingProxies requires all entity types to be public, unsealed, have virtual navigation properties, and have a public or protected constructor.
+2/3/2021 11:56:42 AM ==> UserId:  Error: Incorrect syntax near '@FK_AppUserId'.
+2/3/2021 12:05:38 PM ==> UserId:  Error: Error converting data type varchar to uniqueidentifier.
+2/3/2021 12:06:28 PM ==> UserId:  Error: Error converting data type varchar to uniqueidentifier.
+2/3/2021 12:06:34 PM ==> UserId:  Error: Error converting data type varchar to uniqueidentifier.
+2/3/2021 12:06:44 PM ==> UserId:  Error: Error converting data type varchar to uniqueidentifier.
+2/3/2021 12:20:00 PM ==> UserId:  Error: Error converting data type varchar to uniqueidentifier.
+2/3/2021 12:23:51 PM ==> UserId:  Error: Procedure or function 'GetAdvertisements' expects parameter '@adminType', which was not supplied.
+2/3/2021 12:29:14 PM ==> UserId:  Error: Incorrect syntax near '='.
+2/3/2021 12:38:57 PM ==> UserId:  Error: Incorrect syntax near '='.
+2/3/2021 1:02:50 PM ==> UserId:  Error: Incorrect syntax near '='.

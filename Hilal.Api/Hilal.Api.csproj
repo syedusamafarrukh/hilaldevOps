@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\**" />
+    <Content Remove="bin\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <None Remove="bin\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\app\sold.png" />
+    <Content Remove="wwwroot\sold.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="0ed5ea35-c28a-4b91-9c9f-569a230b0145.jpg" />
+    <None Remove="4269119d-3468-4e80-8d1b-cb3835a2014d.jpg" />
+    <None Remove="5768f08b-ed7e-4327-b900-dbe3e7f95d10" />
+    <None Remove="6dada462-ef58-4b50-b1e5-039980b3d521.jpg" />
+    <None Remove="6e2a70d8-a746-4895-870d-e295a56d81d3.jpg" />
+    <None Remove="8de2ba90-4faa-4764-8a48-5bf26d0a4a85.jpg" />
+    <None Remove="c3422393-a3b7-48e8-a517-571e30dc6d12.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\app\sold.png" />
+    <None Include="wwwroot\sold.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LazZiya.ImageResize" Version="4.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="3.1.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="4.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="4.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="System.IO.FileSystem.AccessControl" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hilal.Common\Hilal.Common.csproj" />
+    <ProjectReference Include="..\Hilal.DataViewModel\Hilal.DataViewModel.csproj" />
+    <ProjectReference Include="..\Hilal.Data\Hilal.Data.csproj" />
+    <ProjectReference Include="..\Hilal.Service\Hilal.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,4 @@
+7/5/2021 2:45:33 PM ==> UserId:  Error: Access Denied
+7/5/2021 2:46:09 PM ==> UserId:  Error: Access Denied
+7/5/2021 2:47:13 PM ==> UserId:  Error: Access Denied
+7/5/2021 3:07:13 PM ==> UserId:  Error: D:\Mobeen Office\New Hilal Repo\Hilal.Api\wwwroot\images\sold.png

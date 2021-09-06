@@ -1,0 +1,4 @@
+12/18/2020 7:59:54 AM ==> UserId:  Error: Specified value does not have a ':' separator. (Parameter 'header')
+12/18/2020 9:48:29 AM ==> UserId:  Error: The remote server returned an error: (401) Unauthorized.
+12/18/2020 9:51:24 AM ==> UserId:  Error: The remote server returned an error: (403) Forbidden.
+12/18/2020 10:00:34 AM ==> UserId:  Error: The remote server returned an error: (403) Forbidden.

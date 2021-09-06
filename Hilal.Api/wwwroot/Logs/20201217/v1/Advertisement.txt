@@ -1,0 +1,6 @@
+12/17/2020 11:17:53 AM ==> UserId:  Error: The remote server returned an error: (400) Bad Request.
+12/17/2020 11:18:33 AM ==> UserId:  Error: The remote server returned an error: (415) Unsupported Media Type.
+12/17/2020 11:19:42 AM ==> UserId:  Error: The remote server returned an error: (415) Unsupported Media Type.
+12/17/2020 11:26:32 AM ==> UserId:  Error: The remote server returned an error: (415) Unsupported Media Type.
+12/17/2020 11:27:58 AM ==> UserId:  Error: The remote server returned an error: (400) Bad Request.
+12/17/2020 11:30:05 AM ==> UserId:  Error: The operation has timed out.
